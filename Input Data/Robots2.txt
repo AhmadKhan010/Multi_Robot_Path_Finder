@@ -1,0 +1,7 @@
+Robot 1: Start (7, 96) End (5, 90)
+Robot 2: Start (68, 13) End (59, 88)
+Robot 3: Start (39, 86) End (37, 50)
+Robot 4: Start (33, 82) End (11, 7)
+Robot 5: Start (66, 87) End (17, 72)
+Robot 6: Start (56, 79) End (11, 89)
+Robot 7: Start (95, 80) End (90, 89)

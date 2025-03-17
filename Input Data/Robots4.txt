@@ -1,0 +1,6 @@
+Robot 1: Start (68, 393) End (304, 415)
+Robot 2: Start (474, 127) End (205, 108)
+Robot 3: Start (280, 173) End (2, 429)
+Robot 4: Start (23, 204) End (458, 316)
+Robot 5: Start (91, 68) End (408, 192)
+Robot 6: Start (169, 12) End (327, 149)

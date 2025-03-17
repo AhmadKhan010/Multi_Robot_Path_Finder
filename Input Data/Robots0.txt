@@ -1,0 +1,5 @@
+Robot 1: Start (0, 24) End (14, 17)
+Robot 2: Start (5, 6) End (24, 0)
+Robot 3: Start (23, 18) End (23, 22)
+Robot 4: Start (17, 22) End (22, 19)
+Robot 5: Start (4, 19) End (13, 15)
