@@ -18,4 +18,13 @@ This project implements an AI-based multi-robot path planning algorithm using A*
 
 ✅ Implemented in Python 
 
-# 🧠 Algorithms & Heuristics A* search for optimal path planning Manhattan distance heuristic for cost estimation Priority queue for efficient node expansion Dynamic collision handling between multiple robots # 📌 Future Enhancements ✅ Real-time obstacle updates ✅ Integration with reinforcement learning ✅ 3D environment support
+# 🧠 Algorithms & Heuristics 
+A* search for optimal path planning Manhattan distance heuristic for cost estimation Priority queue for efficient node expansion Dynamic collision handling between multiple robots 
+
+# 📌 Future Enhancements
+
+✅ Real-time obstacle updates 
+
+✅ Integration with reinforcement learning 
+
+✅ 3D environment support
